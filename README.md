@@ -226,6 +226,7 @@ For documentation on the latest development code see the [documentation index][d
 * [kubernetes](./plugins/inputs/kubernetes)
 * [kube_inventory](./plugins/inputs/kube_inventory)
 * [lanz](./plugins/inputs/lanz)
+* [libvirt](./plugins/inputs/libvirt)
 * [leofs](./plugins/inputs/leofs)
 * [linux_sysctl_fs](./plugins/inputs/linux_sysctl_fs)
 * [logparser](./plugins/inputs/logparser)
